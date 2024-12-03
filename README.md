@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Neural Network Projects
 
 ## Project 1: Signal Quality Prediction
 
